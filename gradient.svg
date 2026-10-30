@@ -8,7 +8,7 @@
     </linearGradient>
     <style>
       .gradient-text {
-        font-family: Ubuntu Mono, monospace;
+        font-family: Helvetica;
         font-size: 30px;
         fill: url(#textGradient);
         font-weight: 600;
