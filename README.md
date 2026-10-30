@@ -4,5 +4,5 @@
 <div align="center">
   <img src="gradient.svg">
 </div>
-<h1 align="center">Eine zentrierte Hauptüberschrift</h1>
+<h1 align="center">Eine entrierte Hauptüberschrift</h1>
 
