@@ -12,7 +12,6 @@
         font-size: 32px;
         fill: url(#textGradient);
         font-weight: 700;
-        text-rendering: optimizeLegibility;
       }
     </style>
   </defs>
